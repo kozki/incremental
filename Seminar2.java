@@ -133,12 +133,6 @@ public class Seminar2 {
     }
 
 
-    //very important thingy
-    public static String studentId(){
-        return "63110196";
-    }
-
-
     //class represents Point in plain with X and Y position
     //and also if X is positive or negative, also index
     class Point {
